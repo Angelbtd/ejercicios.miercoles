@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 x = [1, 2, 3]
 
 # Los valores correspondientes del eje y
-y = [2, 4, 1]
+y = [2, 6, 3, 6, 3]
 
 # Trazando los puntos 
 plt.plot(x, y)
